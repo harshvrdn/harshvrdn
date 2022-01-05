@@ -1,6 +1,6 @@
 ### Hello there, I'm Harsh Vardhan 👋 
 
-## I'm a Gamer, Artist and an Indie Game Developer
+## I'm a Gamer, Artist.
 
 - 🌱 I’m currently learning Game Dev with C# and Python 
 - 👯 I’m also currently working on Film and Vfx Projects of my own
