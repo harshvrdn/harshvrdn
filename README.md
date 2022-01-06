@@ -3,7 +3,7 @@
 ## I'm a Gamer, Artist.
 
 - 🌱 I’m currently learning Game Dev with C# and Python 
-- 👯 I’m also currently working on Film and Vfx Projects of my own
+- 👯 I’m also currently working on Design and Vfx Projects of my own
 - 🥅 2022 Goals: Learn more about game dev and make better games
 
 ### Connect with me:
