@@ -28,7 +28,7 @@
 <br />
 
 [website]: https://www.artstation.com/harshvrdn
-[twitter]: https://twitter.com/Exhelius_Craves
+[twitter]: https://twitter.com/Harshdvardhan
 [youtube]: https://www.youtube.com/channel/UCYqHDuUxf8YP4tzhOfqqTkQ
 [instagram]: https://www.instagram.com/the._original.one/
 [linkedin]: https://www.linkedin.com/in/harsh-vardhan-242a201a9/
