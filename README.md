@@ -1,11 +1,11 @@
 ### Hello there, I'm Harsh Vardhan 👋 
 
-I'm a post-graduate student of Mathematics and Computing, with some experience in Automation, 2D Game Development, Statistics and 3D Modelling.
+I'm a post-graduate student of Mathematics and Computing, with some experience in Statistics, IT Automation, 2D Game Development and 3D Modelling.
 
 - 🌱 I’m currently learning     
     *  Data Science using R  
-    *  Python Automation    
-    *  Artificial Intellegence 
+    *  Machine Learning   
+    *  Metasploit Framework
         
 <!--- 👯 I’m also currently working on  
         *  Design and  of my own-->
@@ -25,10 +25,12 @@ I'm a post-graduate student of Mathematics and Computing, with some experience i
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/visualstudiocode.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/github.svg" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/unity.svg" />
+<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/rstudio.svg" />
 <img align="left" alt="Unreal Engine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/unrealengine.svg" />
-<img align="left" alt="Autodesk" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/autodesk.svg" />
+<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/tableau.svg" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/blender.svg" />
+<img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/microsoftexcel.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/python.svg" />
 <br />
 <br />
 
