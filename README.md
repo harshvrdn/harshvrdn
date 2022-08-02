@@ -1,18 +1,23 @@
 ### Hello there, I'm Harsh Vardhan 👋 
 
-## I'm a Gamer, Artist.
+I'm a post-graduate student of Mathematics and Computing, with some experience in Automation, 2D Game Development, Statistics and 3D Modelling.
 
-- 🌱 I’m currently learning Game Dev with C# and Python 
-- 👯 I’m also currently working on Design and Vfx Projects of my own
-- 🥅 2022 Goals: Learn more about game dev and make better games
+- 🌱 I’m currently learning     
+    *  Data Science using R  
+    *  Python Automation    
+    *  Artificial Intellegence 
+        
+<!--- 👯 I’m also currently working on  
+        *  Design and  of my own-->
+- 🥅 My Goals:  
+    *  Learn more about R for Data Analytics
+    *  Get better at Automation with Python
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://iconscout.com/icon/instagram-1868979" />][instagram]
 
 <br />
 
@@ -27,8 +32,6 @@
 <br />
 <br />
 
-[website]: https://www.artstation.com/harshvrdn
-[twitter]: https://twitter.com/Harshdvardhan
 [youtube]: https://www.youtube.com/channel/UCYqHDuUxf8YP4tzhOfqqTkQ
 [instagram]: https://www.instagram.com/the._original.one/
 [linkedin]: https://www.linkedin.com/in/harsh-vardhan-242a201a9/
