@@ -1,14 +1,12 @@
-### Hello there, I'm Harsh Vardhan 👋 
+# Hello there, I'm Harsh Vardhan 👋
 
-I'm a post-graduate student of Mathematics and Computing, with some experience in Statistics, IT Automation, 2D Game Development and 3D Modelling.
+I'm a post-graduate student of Mathematics and Computing, with some experience in Statistics, Data Analytics, Digital Marketing and 3D Modelling.
 
-- 🌱 I’m currently learning     
-    *  Data Science using R  
-    *  Machine Learning   
-    *  Metasploit Framework
-        
-<!--- 👯 I’m also currently working on  
-        *  Design and  of my own-->
+- 🌱 I currently work with
+    *  Python  
+    *  SQL   
+    *  Google Analytics
+
 - 🥅 My Goals:  
     *  Learn more about R for Data Analytics
     *  Get better at Automation with Python
