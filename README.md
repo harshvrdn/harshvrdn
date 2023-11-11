@@ -4,7 +4,7 @@ I'm a post-graduate student of Mathematics and Computing, with some experience i
 
 - 🌱 I currently work with
   - Python  
-  - SQL
+  - Data Analytics
   - Google Analytics
 
 - 🥅 My Goals:  
