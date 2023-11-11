@@ -1,6 +1,6 @@
 # Hello there, I'm Harsh Vardhan 👋
 
-I'm a post-graduate student of Mathematics and Computing, with some experience in Statistics, Data Analytics, Marketing and 3D Modelling.
+I'm a student of Mathematics trying my hands on programming and analytics.
 
 - 🌱 I currently work with
   - Python  
@@ -9,7 +9,7 @@ I'm a post-graduate student of Mathematics and Computing, with some experience i
 
 - 🥅 My Goals:  
   - Learn more Python for Data Analytics.
-  - Learn a new skill for Risk Management.
+  - Learn a bit about financial markets.
 
 ## Connect with me
 
