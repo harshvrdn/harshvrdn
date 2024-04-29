@@ -4,12 +4,12 @@ I'm a student of Mathematics trying my hands on programming and analytics.
 
 - 🌱 I currently work with
   - Python  
-  - Data Analytics
-  - Google Analytics
+  - Excel
+  - SQL
 
-- 🥅 My Goals:  
-  - Learn more Python for Data Analytics.
-  - Learn a bit about financial markets.
+- 🥅 Interested In:  
+  - Generative AI.
+  - Data Analytics.
 
 ## Connect with me
 
@@ -21,7 +21,6 @@ I'm a student of Mathematics trying my hands on programming and analytics.
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/visualstudiocode.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.5.0/icons/github.svg" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/tableau.svg" />
 <img align="left" alt="Excel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/microsoftexcel.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/python.svg" />
 <br />
