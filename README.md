@@ -8,11 +8,11 @@ I'm a student of Mathematics trying my hands on programming and analytics.
   - SQL
 
 - 🥅 Interested In:  
-  - Generative AI.
+  - Automation.
   - Data Analytics.
 
 ## Connect with me
 
-[Linkedin]
+[LinkedIn]
 
 [linkedin]: https://www.linkedin.com/in/harsh-vardhan-242a201a9/
